@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">笔迹</string>
+    <string name="tab_text_0">精选</string>
+    <string name="tab_text_1">单句</string>
+    <string name="tab_text_2">段落</string>
+    <string name="tab_text_3">文章</string>
+    <string name="tab_text_4">诗词</string>
+    <string name="search">搜索</string>
+    <string name="about">关于</string>
+</resources>
